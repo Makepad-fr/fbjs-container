@@ -1,0 +1,2 @@
+#/bin/bash
+node /usr/local/lib/node_modules/facebook-group-posts-scraper/src/index.js $*
