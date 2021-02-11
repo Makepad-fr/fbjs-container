@@ -1,2 +1,3 @@
 #/bin/bash
-node /usr/local/lib/node_modules/facebook-group-posts-scraper/src/index.js $*
+npm install -g npm
+node `npm root -g`/facebook-group-posts-scraper/src/index.js $*
