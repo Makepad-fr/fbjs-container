@@ -13,7 +13,7 @@ copy facebook-group-posts-scraper.sample.json facebook-group-posts-scraper.json
 vi facebook-group-posts-scraper.json
 ```
 
-Build docker image:
+Build docker image (⚠️ make sure Docker client is running):
 
 ```bash
 bash make.sh
