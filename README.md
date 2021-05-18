@@ -9,7 +9,7 @@ This is dockerized https://github.com/Makepad-fr/fbjs so I can run it easily on 
 Prepare config file:
 
 ```bash
-copy facebook-group-posts-scraper.sample.json facebook-group-posts-scraper.json
+cp facebook-group-posts-scraper.sample.json facebook-group-posts-scraper.json
 vi facebook-group-posts-scraper.json
 ```
 
